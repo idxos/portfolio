@@ -1,0 +1,33 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "portfolio site",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:idxos/portfolio.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "= <=>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idxos/portfolio/issues"
+  },
+  "homepage": "https://github.com/idxos/portfolio",
+  "bundleDependencies": [
+    "bower",
+    "gulp"
+  ],
+  "dependencies": {
+    "bower": "^1.4.1",
+    "gulp": "^3.8.11"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  }
+}
