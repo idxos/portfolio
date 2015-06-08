@@ -1,18 +1,13 @@
 {
-    "name": "october/october",
-    "description": "October CMS",
-    "homepage": "http://octobercms.com",
+    "name": "idxos/portfolio",
+    "description": "Portfolio site built on OctoberCMS PHP framework.  Custom composer repo my basic dev tools.",
+    "homepage": "http://lknpro.com",
     "keywords": ["october", "cms", "octobercms", "laravel"],
     "authors": [
         {
-            "name": "Alexey Bobkov",
-            "email": "aleksey.bobkov@gmail.com",
-            "role": "Co-founder"
-        },
-        {
-            "name": "Samuel Georges",
-            "email": "daftspunky@gmail.com",
-            "role": "Co-founder"
+            "name": "Christopher J. Roberts",
+            "email": "croberts@lknpro.com",
+            "role": "Ninja"
         }
     ],
     "support": {
@@ -20,7 +15,7 @@
         "forum": "http://octobercms.com/forum/",
         "docs": "http://octobercms.com/docs/",
         "irc": "irc://irc.freenode.net/october",
-        "source": "https://github.com/octobercms/october"
+        "source": "https://github.com/idxos/portfolio"
     },
     "require": {
         "php": ">=5.4",
