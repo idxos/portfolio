@@ -43,7 +43,7 @@
           </ul>
 
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="#" target="_blank">Built With Bootstrap</a></li>
+            <li><a href="#" target="_blank">Download W-2</a></li>
             <li><a href="#" target="_blank">Link</a></li>
           </ul>
 

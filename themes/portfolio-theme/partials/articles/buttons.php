@@ -13,6 +13,10 @@
         <div class="row">
           <div class="col-lg-6">
 
+<p>
+  <span class="button-wrap"><button href="#" class="button button-circle">press me</button></span>
+</p>
+
             <p class="bs-component">
               <a href="#" class="btn btn-default">Default</a>
               <a href="#" class="btn btn-primary">Primary</a>
