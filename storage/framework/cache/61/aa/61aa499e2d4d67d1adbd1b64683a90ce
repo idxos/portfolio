@@ -1,0 +1,11 @@
+1433789837s:613:"a:5:{s:5:"mtime";i:1433789105;s:7:"content";s:208:"title = "Account"
+url = "/account"
+layout = "default"
+description = "Sign in, registration and account management."
+hidden = "0"
+
+[account]
+redirect = "account"
+paramCode = "code"
+==
+{% component 'account' %}";s:8:"settings";a:6:{s:5:"title";s:7:"Account";s:3:"url";s:8:"/account";s:6:"layout";s:7:"default";s:11:"description";s:45:"Sign in, registration and account management.";s:6:"hidden";s:1:"0";s:10:"components";a:1:{s:7:"account";a:2:{s:8:"redirect";s:7:"account";s:9:"paramCode";s:4:"code";}}}s:4:"code";N;s:6:"markup";s:25:"{% component 'account' %}";}";
